@@ -1,0 +1,40 @@
+ul{
+    list-style: none;
+
+    display: flex;
+    margin-left: 10rem;
+}
+li{
+    display: flex;
+    margin-left: 2rem;
+
+}
+.navbar{
+
+    display: flex;
+    margin-left: 2rem;
+    justify-content: space-between;
+}
+.skills{
+
+display: flex;
+margin-left: 2rem;
+text-align: center;
+}
+.footer{
+background-color: black;
+height: 5vh;
+text-align: center;
+font-style: oblique;
+margin-bottom: 2rem;
+
+}
+.footer>p{
+    color: white;
+}
+.big{
+width: 200vw;
+align-self: flex-end;
+
+
+}
